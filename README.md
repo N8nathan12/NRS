@@ -1,3 +1,5 @@
+### To stay up to date with the latest information from me about the current/new projects in the repository, make sure to visit(https://www.linkedin.com/in/nathan-reid-b69522452/) and show some love thank you.
+
 # Instructions to install the program.
 #### 1. Click on the program  zip folder you want to install(NS File directory).
 #### 2. Once in, download the zip folder by either clicking 'view raw' or 'Download raw files' in the top right hand corner.
