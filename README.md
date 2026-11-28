@@ -23,4 +23,4 @@
 #### 3. Find 'NS File directory'.
 #### 4. Click on the 3 don'ts to the right, and click uninstall.
 
-## I only have current 1 project but this will grow with time thank you for your patience.
+## I only have currently 1 project but this will grow with time thank you for your patience.
